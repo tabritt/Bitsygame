@@ -1,0 +1,8 @@
+This is my release notes changes!
+
+Added interactions between snakes and scorpions
+
+changed some map sprites to give a clearer direction
+
+added music to other rooms
+
